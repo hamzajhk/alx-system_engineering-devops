@@ -1,0 +1,2 @@
+#!/bin/bash
+cut id 'i' -f 1.6 /etc/pqsswd | sort
